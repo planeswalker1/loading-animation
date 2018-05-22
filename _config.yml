@@ -1,0 +1,3 @@
+baseurl: '/loading-animation'
+exclude: ['README.md']
+permalink: 'pretty'
