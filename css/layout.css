@@ -2,3 +2,9 @@
   margin: 0 auto;
   max-width: 1360px;
 }
+
+/*hide page content*/
+.content {
+  display: none;
+  text-align: center;
+}
